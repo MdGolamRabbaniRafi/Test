@@ -1,0 +1,148 @@
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.dll
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.pdb
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.dll
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.dll
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.pdb
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll.config
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.xml
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.xml
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.dll
+F:\code\.Net\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.pdb
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.pdb
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.pdb
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll.config
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.xml
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.xml
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.pdb
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.dll
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.pdb
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.dll
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.dll
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.pdb
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll.config
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.xml
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.xml
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.dll
+F:\code\.Net\Test\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.pdb
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.pdb
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.pdb
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll.config
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.xml
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.xml
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.pdb
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.xml
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fall 2023\Advance Programming With .Net\FinalProject\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.xml
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\varsity\semester10\New folder\BloodDonation-.Net-ASP-\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.pdb
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.pdb
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll.config
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.xml
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.xml
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.xml
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.dll
+D:\varsity\semester10\New folder\backup2\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.pdb
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.pdb
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.pdb
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll.config
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.xml
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.xml
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.xml
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.dll
+D:\varsity\semester10\Advance dot Net\FinalProject\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.pdb
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\BLL.pdb
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.pdb
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\DAL.dll.config
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\AutoMapper.xml
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\Stripe.net.xml
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\bin\Debug\EntityFramework.xml
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.dll
+D:\Everything\Web\GitHub\BloodDonation&HealthCare\BloodDonationAndHEalthCare\BLL\obj\Debug\BLL.pdb
